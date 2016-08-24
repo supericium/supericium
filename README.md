@@ -6,7 +6,7 @@ about element naming collision for transitive dependencies.
 
 ## Development approach
 
-In addition to encouraging zero friction [NPM](https://www.npmjs.com/) based component reuse, 
+In addition to advocating zero friction [NPM](https://www.npmjs.com/) based component reuse, 
 supericium also encourages asset reuse (CSS, Images, Javascript, etc.) using your favorite set of 
 development tools.
 
